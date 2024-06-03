@@ -1,0 +1,13 @@
+
+
+wie soll unser code aussehen
+
+daten
+
+monte carlo
+
+critical threshold
+
+asset allocations (brauchen lgd, und thetas)
+
+Values (EL UL VAR 95 VAR 99 Plots)
