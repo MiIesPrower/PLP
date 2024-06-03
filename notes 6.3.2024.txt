@@ -1,0 +1,4 @@
+research consumer and corporate credit LGD public data (corporate statistics for lgd from team 1b)
+for consumers its tricky (could assume 100% loss, predatory lending)
+consumers will have a bimodal distribution (80/20 something)
+
