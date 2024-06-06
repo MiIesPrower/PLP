@@ -1,0 +1,14 @@
+Lending amount: 50.000.000
+Average personal loan LGD: 1
+Average personal loan amount according to PD:
+PD < 25%: 11.500€
+PD > 25%: 0€
+Average business loan LGD: 0.4, {0.25;0.55}
+Average business loan amount according to rating:
+AAA (PD < 0.01%): 600.000€ 
+AA+, AA, AA- (0.01% < PD < 0.07%): 450.000€
+A+, A, A-, BBB+ (0.07% < PD < 0.19%): 300.000€
+BBB, BBB-, BB+, BB, BB-, B+, B, B- (0.19%< PD < 5.36%): 100.000€
+CCC+, CCC, CCC- (5.36% < PD < 25.23%): 25.000
+CC, C, Rd, D (PD > 25,23%): 0€
+
